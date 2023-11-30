@@ -5,6 +5,7 @@ public class Holaclase {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		System.out.println("Pero Lolo");
+		System.out.println("Eres fernan?");
 	}
 
 }
